@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/XF.Demo.Start
+/packages
+/XF.Demo.Start/XF.Demo.Start/bin/Debug
+/XF.Demo.Start/XF.Demo.Start/obj/Debug
+/XF.Demo.Start/XF.Demo.Start.Android/bin/Debug
+/XF.Demo.Start/XF.Demo.Start.Android/obj/Debug
+/XF.Demo.Start/XF.Demo.Start.iOS/obj/iPhone/Debug
